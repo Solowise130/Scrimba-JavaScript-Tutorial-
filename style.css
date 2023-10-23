@@ -1,0 +1,38 @@
+#increment-btn {
+    background: darkred;
+}
+
+button { 
+    font-family: abel;
+    font-weight: 200;
+    font-size: 30px;
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 5px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    width: 300px;
+    background-color: brown;
+    
+}
+
+h2 {
+    margin: 80px;
+    font-weight: 700px;
+    font-size: 80px;
+}
+body{
+    background-image: url(flower.jpg);
+    background-size: cover;
+    font-weight: bold;
+    text-align: center;
+    margin:auto;
+    background-color:darkgreen
+}
+h1{
+    color: black;
+}
+style{
+    margin-right: 50%;
+}
