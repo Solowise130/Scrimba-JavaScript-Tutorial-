@@ -62,7 +62,18 @@
 // increment the count variable when the button is clicked
 // change the count-el in the HTML to reflect the new count.
 
-function increment () {
-    console.log("The button was clicked")
-    alert('The button was clicked')
-}
+// function increment () {
+//     console.log("The button was clicked")
+//     alert('The button was clicked')
+// }
+
+//CHALLENGE
+// Create a function (you decide the name) that logs out the number 42 to the console
+// Call/invoke the function
+
+// function logout(){
+//     console.log (42)
+    
+// }
+  
+// logout()
