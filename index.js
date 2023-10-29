@@ -72,8 +72,24 @@
 // Call/invoke the function
 
 // function logout(){
-//     console.log (42)
-    
+//     console.log (42)   
 // }
-  
 // logout()
+
+//CHALLENGE
+
+let lap1 = 34
+let lap2 = 33
+let lap3 = 36
+
+// Create a function that logs out the sum of all the lap times
+
+function sumUp() {
+    let totalSum = lap1 + lap2 + lap3;
+    console.log(totalSum);
+}
+//Invoke the Function
+sumUp()
+
+//NB
+//Let Variables are called ""Blocked Scope"
