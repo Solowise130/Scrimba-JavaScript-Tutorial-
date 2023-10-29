@@ -64,4 +64,5 @@
 
 function increment () {
     console.log("The button was clicked")
+    alert('The button was clicked')
 }
